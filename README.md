@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Boxnetic
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning LUA and python
+- go fuck yourself
 
 <!---
 Boxnetic/Boxnetic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
